@@ -2,4 +2,20 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  width: 100;
+  height: 15dvh;
+}
+.header h1 {
+  width: 12rem;
+  height: 6dvh;
+  justify-content: center;
 }/*# sourceMappingURL=main.css.map */
